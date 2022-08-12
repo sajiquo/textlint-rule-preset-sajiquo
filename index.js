@@ -46,7 +46,8 @@ module.exports = {
     "general-novel-style-ja": true,
     // JISの範囲外の文字をチェック
     // https://github.com/lostandfound/textlint-rule-jis-charset
-    "jis-charset": true,
+    // ConsoleLogが埋まっていて出力がおかしくなる
+    "jis-charset": false,
 
   }
 }
