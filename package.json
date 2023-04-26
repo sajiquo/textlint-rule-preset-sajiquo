@@ -24,7 +24,7 @@
   "homepage": "https://github.com/sajiquo/textlint-rule-preset-sajiquo#readme",
   "dependencies": {
     "@textlint-ja/textlint-rule-no-synonyms": "^1.3.0",
-    "@textlint/ast-node-types": "^12.2.1",
+    "@textlint/ast-node-types": "^13.0.0",
     "@textlint/module-interop": "^12.2.1",
     "@textlint/types": "^12.2.1",
     "sudachi-synonyms-dictionary": "^10.0.0",
