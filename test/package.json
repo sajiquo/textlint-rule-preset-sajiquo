@@ -13,6 +13,6 @@
     "textlint-rule-preset-sajiquo": "file:.."
   },
   "devDependencies": {
-    "textlint": "^12.2.1"
+    "textlint": "^13.3.2"
   }
 }
