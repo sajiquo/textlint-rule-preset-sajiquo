@@ -12,8 +12,8 @@ dependencies:
     specifier: ^13.3.2
     version: 13.3.2
   '@textlint/module-interop':
-    specifier: ^13.3.2
-    version: 13.3.2
+    specifier: ^14.0.0
+    version: 14.0.0
   '@textlint/types':
     specifier: ^13.3.2
     version: 13.3.2
@@ -154,8 +154,8 @@ packages:
       - supports-color
     dev: false
 
-  /@textlint/module-interop@13.3.2:
-    resolution: {integrity: sha512-JPHAZlWXgedDCoaTT21dln8u+sPVJUGPw283Oxz1k24x2MWaFZO7EReu/K4QepdxNKOpdllp2DqvnWgnvZoPOg==}
+  /@textlint/module-interop@14.0.0:
+    resolution: {integrity: sha512-QjSSwW2Dh+NEhWH6nsnVaJ9NI7MjAFUk96M8x+BTg7i7PES7cFAvjVCR2hgetrKhJWl3YKsiuWZ7f7tUkGCimw==}
     dev: false
 
   /@textlint/regexp-string-matcher@1.1.1:
