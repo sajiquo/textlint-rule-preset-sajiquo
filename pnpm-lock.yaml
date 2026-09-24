@@ -15,8 +15,8 @@ dependencies:
     specifier: ^13.3.2
     version: 13.3.2
   '@textlint/types':
-    specifier: ^13.3.2
-    version: 13.3.2
+    specifier: ^15.0.0
+    version: 15.8.0
   sudachi-synonyms-dictionary:
     specifier: ^12.0.0
     version: 12.0.0
@@ -96,6 +96,10 @@ packages:
 
   /@textlint/ast-node-types@13.4.1:
     resolution: {integrity: sha512-qrZyhCh8Ekk6nwArx3BROybm9BnX6vF7VcZbijetV/OM3yfS4rTYhoMWISmhVEP2H2re0CtWEyMl/XF+WdvVLQ==}
+    dev: false
+
+  /@textlint/ast-node-types@15.8.0:
+    resolution: {integrity: sha512-5CiH9COYmovWmExQgs7763DzX6Gy9zjkjJ7JxCC95wyTcjwQn/8poNF6fv3qzRlmx8CRRde8DHr9FcgAAiPzgw==}
     dev: false
 
   /@textlint/ast-node-types@4.4.3:
@@ -202,6 +206,12 @@ packages:
     resolution: {integrity: sha512-N1Xb4kltBwBwAF3wAwKi3sJA0hWVjraWqIpjuHOplul/O8Qu78domGedktQJ4n2aVN1ucBuFjpZNsQfkfxJI+Q==}
     dependencies:
       '@textlint/ast-node-types': 13.3.2
+    dev: false
+
+  /@textlint/types@15.8.0:
+    resolution: {integrity: sha512-Anhc6y5736YIsvqae0U6k0YmB2M/QVHkEeOv2aydAn/WIkdI69dCOiDbe3/+RagS3qstFTSFWJzNRA2lUjv19w==}
+    dependencies:
+      '@textlint/ast-node-types': 15.8.0
     dev: false
 
   /@textlint/utils@13.3.2:
