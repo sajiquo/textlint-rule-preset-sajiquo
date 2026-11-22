@@ -34,7 +34,7 @@
     "textlint-rule-ja-unnatural-alphabet": "^2.0.1",
     "textlint-rule-jis-charset": "^0.1.0",
     "textlint-rule-no-doubled-conjunction": "^3.0.0",
-    "textlint-rule-no-doubled-joshi": "^4.0.3",
+    "textlint-rule-no-doubled-joshi": "^5.0.0",
     "textlint-rule-no-hankaku-kana": "^2.0.0",
     "textlint-rule-no-mixed-zenkaku-and-hankaku-alphabet": "^1.0.1",
     "textlint-rule-prefer-tari-tari": "^1.0.3"
